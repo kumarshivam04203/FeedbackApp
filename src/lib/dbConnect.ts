@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 
+//typescript ka use kar raha hu isliye type dena hota hai.
 type ConnectionObject = {
   isConnected?: number;
 };
